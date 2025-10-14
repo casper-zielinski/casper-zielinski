@@ -24,7 +24,7 @@
 <ul>
   <li>Firebase</li>
   <li>Supabase</li>
-  <li>Java & JavaFX</li>
+  <li>Java</li>
 </ul>
 
 <h3>Tools & Workflow</h3>
@@ -36,33 +36,37 @@
 
 <h2>🎯 Featured Projects</h2>
 
-<h3>Restaurant Website</h3>
+<h3>Restaurant Website <a href="https://restaurant-bootstrap-gamma.vercel.app/"><u>🔗</u></a></h3>
 <h4>
   Eine moderne Restaurant-Website mit interaktivem Menü, Reservierungssystem 
   und Kontaktformular
 </h4>
 <p><strong>Tech:</strong> Bootstrap, React, TypeScript, Firebase, Express.js</p>
 <p><strong>Features:</strong> Responsive Design, Online-Bestellsystem, Menüverwaltung</p>
+<p><strong>Link:</strong> <a href="https://restaurant-bootstrap-gamma.vercel.app/"><u>https://restaurant-bootstrap-gamma.vercel.app/</u></a> </p>
 
-<h3>Issue Tracker</h3>
+<h3>Issue Tracker <a href="https://issue-tracker-pearl-alpha.vercel.app/"><u>🔗</u></a></h3>
 <h4>
   Full-Stack Projektmanagement-Tool zum Tracking von Issues, Bugs und Tasks
 </h4>
 <p><strong>Tech:</strong> Next.js, TypeScript, Supabase, shadcn/ui, Tailwind CSS</p>
 <p><strong>Features:</strong> Echtzeit-Updates, Benutzer-Authentifizierung, erweiterte Filterung</p>
+<p><strong>Link:</strong> <a href="https://issue-tracker-pearl-alpha.vercel.app/"><u>https://issue-tracker-pearl-alpha.vercel.app/</u></a> </p>
 
-<h3>Social Media App</h3>
+<h3>Social Media Web App <a href="https://social-media-web-app-weld.vercel.app/"><u>🔗</u></a></h3>
 <h4>Social-Media-Plattform mit echtzeit Nachrichten</h4>
 <p><strong>Tech:</strong> Next.js, TypeScript, Firebase, Redux, shadcn/ui, Tailwind</p>
 <p><strong>Features:</strong> Echtzeit-Chat, verschachtelte Kommentare</p>
+<p><strong>Link:</strong> <a href="https://social-media-web-app-weld.vercel.app/"><u>https://social-media-web-app-weld.vercel.app/</u></a> </p>
 
-<h3>Portfolio Website</h3>
+<h3>Portfolio Website <a href="https://casperzielinski-portfolio.vercel.app/"><u>🔗</u></a></h3></h3>
 <h4>
   Meine persönliche Portfolio-Website mit Dark/Light-Mode und mehrsprachiger 
   Unterstützung
 </h4>
 <p><strong>Tech:</strong> Next.js 14, React, TypeScript, Tailwind CSS</p>
 <p><strong>Features:</strong> Theme Toggle, Multi-Language (EN/DE/PL), Vollständig responsive</p>
+<p><strong>Link:</strong> <a href="https://casperzielinski-portfolio.vercel.app/"><u>https://casperzielinski-portfolio.vercel.app/</u></a> </p>
 
 <h2>🌱 Was ich gerade lerne</h2>
 <p>Ich erweitere kontinuierlich meine Kenntnisse in:</p>
