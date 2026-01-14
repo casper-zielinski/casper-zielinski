@@ -2,8 +2,6 @@
 <img src="divider-sailing-boat.svg" width="100%" alt="Looking for new adventueres">
 <h3 align="center">Not waiting for the future — creating it.</h3>
 
-
-
 <h4 >
   Ich bin ein <strong>Frontend/Web Developer</strong> und studiere an der 
   <strong>FH Joanneum</strong> mit Fokus auf moderne Webtechnologien. 
@@ -71,6 +69,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/capacitor/capacitor-original.svg" alt="capacitor" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel Logo" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40">
@@ -78,6 +77,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40">
+<img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" alt="Railway" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40">
@@ -92,10 +95,10 @@
 <img src="divider-glow-blue.svg" width="100%">
 <p>Ich erweitere kontinuierlich meine Kenntnisse in:</p>
 <ul>
-  <li>Full-Stack Development mit modernen Frameworks</li>
-  <li>Cloud-Services und Backend-Architekturen</li>
-  <li>UI/UX Design und moderne Web-Standards</li>
-  <li>KI-Integration in Webanwendungen</li>
+  <li> <b>Mobile Development</b> mit <b>Kotlin</b> und <b>Jetpack Compose</b> (<b>Android</b>) und <b>Capacitor</b> (Web zu Native/PWA)</li>
+  <li></li>
+  <li><b>Backend Technologien</b> wie <b>Express.js</b> und <b>Spring Boot</b></li>
+  <li>Sicheres <b>Authentifizieren</b> mit <b>JWT</b></li>
 </ul>
 
 <h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">📫 Kontakt</h2>
@@ -125,26 +128,18 @@
 <img src="divider-glow-blue.svg" width="100%">
 
 <div style="display:flex; flex-wrap: wrap; gap: 3px; justify-content: center">
-  <img  src="https://nirzak-streak-stats.vercel.app/?user=casper-zielinski&theme=dark&hide_border=true" alt="Contributions" />
+  <img  src="./GitContributer-Dark.svg" alt="Contributions" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=casper-zielinski&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Github Stats"/>
+  <img src="./GitHubStats-Dark.svg" alt="Github Stats"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=casper-zielinski&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
+  <img src="./Used-Languages-Dark-Mode.svg" alt="Most Used Languages" />
+
+<img src="divider-glow-blue.svg" width="100%" style="margin-top: 1rem">
+<h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">My Git Contributions in a Snake Animation</h2>
+  <img src="https://raw.githubusercontent.com/casper-zielinski/casper-zielinski/output/github-contribution-grid-snake.svg">
 </div>
-
-<h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">🔝 Top Contributed Repo</h2>
-<img src="divider-glow-blue.svg" width="100%">
-
-![](https://github-contributor-stats.vercel.app/api?username=casper-zielinski&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
 
 <h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">Thanks for visiting my GitHub Profile!</h2>
 <img src="divider-glow-blue.svg" width="100%">
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/casper-zielinski/casper-zielinski/output/github-contribution-grid-snake.svg">
-</p>
-
 <img src="divider-flowing-blue.svg" width="100%">
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
