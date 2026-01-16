@@ -96,7 +96,6 @@
 <p>Ich erweitere kontinuierlich meine Kenntnisse in:</p>
 <ul>
   <li> <b>Mobile Development</b> mit <b>Kotlin</b> und <b>Jetpack Compose</b> (<b>Android</b>) und <b>Capacitor</b> (Web zu Native/PWA)</li>
-  <li></li>
   <li><b>Backend Technologien</b> wie <b>Express.js</b> und <b>Spring Boot</b></li>
   <li>Sicheres <b>Authentifizieren</b> mit <b>JWT</b></li>
 </ul>
