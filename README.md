@@ -13,6 +13,19 @@
 
 <img src="divider-glow-blue.svg" width="100%">
 
+
+<h3>Smart Kassa - Taxi Registrierkasse <a href="https://smart-kassa.vercel.app/"><u>🔗</u></a></h3>
+
+<h4>RKSV-konforme Registrierkasse und Fahrtverwaltungssystem für österreichische Taxiunternehmen</h4>
+<p><strong>Tech:</strong> React, TypeScript, Tailwind CSS, shadcn/ui, Node.js, Express.js, PostgreSQL, Capacitor</p>
+<p><strong>Features:</strong> RKSV-konforme Belegausstellung, Fahrtverwaltung, JWT-Authentifizierung, Mobile App via Capacitor (Android/iOS), automatisches Deployment via Vercel & Railway</p>
+<p><strong>Rolle:</strong> Frontend Lead & DevOps – verantwortlich für Frontend-Architektur, CI/CD-Pipelines und Deployment</p>
+<p><strong>Kontext:</strong> Universitätsprojekt an der FH JOANNEUM (Teamgröße: 4 Personen)</p>
+<p><strong>Link:</strong> <a href="https://smart-kassa.vercel.app/"><u>https://smart-kassa.vercel.app/</u></a></p>
+<p><strong>GitHub:</strong> <a href="https://github.com/zynqly-smartkassa/smart-kassa"><u>https://github.com/zynqly-smartkassa/smart-kassa</u></a></p>
+
+<img src="divider-glow-blue.svg" width="100%">
+
 <h3>Social Media Web App <a href="https://social-media-web-app-weld.vercel.app/"><u>🔗</u></a></h3>
 <h4>Social-Media-Plattform mit echtzeit Nachrichten</h4>
 <p><strong>Tech:</strong> Next.js, TypeScript, Firebase, Redux, DaisyUI, Tailwind</p>
