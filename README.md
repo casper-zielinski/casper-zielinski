@@ -72,33 +72,44 @@
 <br/>
 
 <h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">💻 Tech Stack</h2>
-
 <img src="divider-glow-blue.svg" width="100%">
-
 <br/>
 
+<h3 align="center">Frontend</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/capacitor/capacitor-original.svg" alt="Capacitor" title="Capacitor" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" title="Vercel" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="40" height="40">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/capacitor/capacitor-original.svg" alt="Capacitor" title="Capacitor" width="40" height="40"/>
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" title="Express.js" width="40" height="40">
 <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" title="JWT" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" alt="Railway" title="Railway" width="40" height="40">
+</p>
+
+<h3 align="center">Database & BaaS</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40">
+</p>
+
+<h3 align="center">DevOps & Tools</h3>
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" title="Vercel" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" alt="Railway" title="Railway" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40">
 </p>
 
 <h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">🌱 Was ich gerade lerne</h2>
@@ -133,19 +144,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/casper-zielinski-ab6650348/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:casper.zielinski.work@gmail.com)
 
 <h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">📊 GitHub Stats</h2>
-
 <img src="divider-glow-blue.svg" width="100%">
 
-<div style="display:flex; flex-wrap: wrap; gap: 3px; justify-content: center">
-  <img  src="./GitContributer-Dark.svg" alt="Contributions" />
-
-  <img src="./GitHubStats-Dark.svg" alt="Github Stats"/>
-
-  <img src="./Used-Languages-Dark-Mode.svg" alt="Most Used Languages" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=casper-zielinski&theme=github-dark-blue&hide_border=true" alt="Contributions" width="80%"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=casper-zielinski&theme=github_dark" alt="GitHub Stats" width="60%"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=casper-zielinski&theme=github_dark" alt="Most Used Languages" width="50%"/>
+</div>
 
 <img src="divider-glow-blue.svg" width="100%" style="margin-top: 1rem">
-<h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">My Git Contributions in a Snake Animation</h2>
-  <img src="https://raw.githubusercontent.com/casper-zielinski/casper-zielinski/output/github-contribution-grid-snake.svg">
+<h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">🐍 My Git Contributions in a Snake Animation</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/casper-zielinski/casper-zielinski/output/github-contribution-grid-snake.svg"/>
 </div>
 
 <h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">Thanks for visiting my GitHub Profile!</h2>
