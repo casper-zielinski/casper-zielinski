@@ -116,14 +116,6 @@
   <li><strong>Portfolio:</strong> <a href="https://casperzielinski-portfolio.vercel.app/">casperzielinski-portfolio.vercel.app</a></li>
 </ul>
 
-<h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">⚡ Fun Fact</h2>
-<img src="divider-glow-blue.svg" width="100%">
-<p>
-  Ich liebe es, sauberen, wartbaren Code zu schreiben und dabei immer die 
-  User Experience im Fokus zu behalten. Jedes Projekt ist für mich eine 
-  Gelegenheit, etwas Neues zu lernen und meine Fähigkeiten zu erweitern!
-</p>
-
 <p><strong>💡 Offen für Zusammenarbeit und spannende Projekte!</strong></p>
 
 <h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">🌐 Socials</h2>
