@@ -77,9 +77,9 @@
 
 <h3>Frontend</h3>
 
-| JavaScript | TypeScript | React | Next.js | Tailwind CSS | Bootstrap | Redux | Capacitor | Jetpack Compose |
+| Kotlin | TypeScript | React | Next.js | Tailwind CSS | Bootstrap | Redux | Capacitor | Jetpack Compose |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="60" height="60"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/capacitor/capacitor-original.svg" alt="Capacitor" title="Capacitor" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" title="Jetpack Compose" width="60" height="60"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="60" height="60"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/capacitor/capacitor-original.svg" alt="Capacitor" title="Capacitor" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" title="Jetpack Compose" width="60" height="60"/> |
 
 <h3>Backend</h3>
 
@@ -104,9 +104,9 @@
 <img src="divider-glow-blue.svg" width="100%">
 <p>Ich erweitere kontinuierlich meine Kenntnisse in:</p>
 <ul>
-  <li> <b>Mobile Development</b> mit <b>Kotlin</b> und <b>Jetpack Compose</b> (<b>Android</b>) und <b>Capacitor</b> (Web zu Native/PWA)</li>
+  <li><b>Mobile Development</b> mit <b>Jetpack Compose (Native)</b>, <b>Flutter (Crossplatform) </b> und <b> Capacitor </b> 
   <li><b>Backend Technologien</b> wie <b>Express.js</b> und <b>Spring Boot</b></li>
-  <li>Sicheres <b>Authentifizieren</b> mit <b>JWT</b></li>
+  <li><b>Datenstrukturen</b> und <b>Algorithmen</b> 
 </ul>
 
 <h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">📫 Kontakt</h2>
