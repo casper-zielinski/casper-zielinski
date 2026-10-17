@@ -99,20 +99,29 @@
 
 <h3>DevOps & Tools</h3>
 
-| Git | GitHub | Vercel | Railway | Postman |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" title="Vercel" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" alt="Railway" title="Railway" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="60" height="60"/> |
+| Git | GitHub | Vercel | Railway | Postman | Claude Code |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" title="Vercel" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" alt="Railway" title="Railway" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="60" height="60"/>
 
 <br/>
 <h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">🌱 Was ich gerade lerne</h2>
 <img src="divider-glow-blue.svg" width="100%">
 <p>Ich erweitere kontinuierlich meine Kenntnisse in:</p>
 <ul>
+  <li><b>Claude (Code)</b> und wie man es am besten benutzt</li>
   <li><b>Mobile Development</b> mit <b>Jetpack Compose (Native)</b>, <b>Flutter (Crossplatform) </b> und <b> Capacitor </b> 
   <li><b>Backend Technologien</b> wie <b>Express.js</b> und <b>Spring Boot</b></li>
   <li><b>Datenstrukturen</b> und <b>Algorithmen</b> 
 </ul>
 
+<br/>
+<h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">Zertifikate und Badges</h2>
+
+| <a href="https://academy.claude.com/verify/3a4d781cc35a08cecdb6f282cd865ca9">Claude Code 101</a> | <a href="https://academy.claude.com/verify/adcb13f0cf1529fc91ad98a05b3e6005">AI Fluency for Builders</a> | 
+| :---: | :---: | 
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="60" height="60"/> | 
+
+<br/>
 <h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">📫 Kontakt</h2>
 <img src="divider-glow-blue.svg" width="100%">
 <ul>
