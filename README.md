@@ -101,7 +101,7 @@
 
 | Git | GitHub | Vercel | Railway | Postman | Claude Code |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" title="Vercel" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" alt="Railway" title="Railway" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="60" height="60"/>
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" title="Vercel" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" alt="Railway" title="Railway" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="60" height="60"/> | <img src="./claude-code.svg" alt="Claude Code" title="Claude Code" width="60" height="60"/>
 
 <br/>
 <h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">🌱 Was ich gerade lerne</h2>
@@ -117,9 +117,9 @@
 <br/>
 <h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">Zertifikate und Badges</h2>
 
-| <a href="https://academy.claude.com/verify/3a4d781cc35a08cecdb6f282cd865ca9">Claude Code 101</a> | <a href="https://academy.claude.com/verify/adcb13f0cf1529fc91ad98a05b3e6005">AI Fluency for Builders</a> | 
+| <a href="https://academy.claude.com/verify/adcb13f0cf1529fc91ad98a05b3e6005">AI Fluency for Builders</a> | <a href="https://academy.claude.com/verify/3a4d781cc35a08cecdb6f282cd865ca9">Claude Code 101</a>  | 
 | :---: | :---: | 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="60" height="60"/> | 
+| <img src="./claude-academy-badge-ai-fluency-for-builders.jpg" alt="Claude Academy Badge - AI Fluency for Builders" title="Claude Academy Badge - AI Fluency for Builders" width="500" height="500"/> | <img src="./claude-academy-badge-claude-code-101.png" alt="Claude Academy Badge - Claude Code 101" title="Claude Academy Badge - Claude Code 101" width="500" height="500"/> | 
 
 <br/>
 <h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">📫 Kontakt</h2>
