@@ -117,9 +117,24 @@
 <br/>
 <h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">Zertifikate und Badges</h2>
 
-| <a href="https://academy.claude.com/verify/adcb13f0cf1529fc91ad98a05b3e6005">AI Fluency for Builders</a> | <a href="https://academy.claude.com/verify/3a4d781cc35a08cecdb6f282cd865ca9">Claude Code 101</a>  | 
-| :---: | :---: | 
-| <img src="./claude-academy-badge-ai-fluency-for-builders.jpg" alt="Claude Academy Badge - AI Fluency for Builders" title="Claude Academy Badge - AI Fluency for Builders" width="500" height="500"/> | <img src="./claude-academy-badge-claude-code-101.png" alt="Claude Academy Badge - Claude Code 101" title="Claude Academy Badge - Claude Code 101" width="500" height="500"/> | 
+<div align="center">
+  <table>
+    <tr>
+      <th align="center"><a href="https://academy.claude.com/verify/adcb13f0cf1529fc91ad98a05b3e6005">AI Fluency for Builders</a></th>
+      <th align="center"><a href="https://academy.claude.com/verify/3a4d781cc35a08cecdb6f282cd865ca9">Claude Code 101</a></th>
+    </tr>
+    <tr>
+      <td align="center"><img src="./claude-academy-badge-ai-fluency-for-builders.jpg" alt="Claude Academy Badge - AI Fluency for Builders" title="Claude Academy Badge - AI Fluency for Builders" width="500" height="500"/></td>
+      <td align="center"><img src="./claude-academy-badge-claude-code-101.png" alt="Claude Academy Badge - Claude Code 101" title="Claude Academy Badge - Claude Code 101" width="500" height="500"/></td>
+    </tr>
+    <tr>
+      <th align="center" colspan="2"><a href="https://academy.claude.com/badges/e6f37538-0f29-4437-9c31-5bc213234ca8">Claude Code in Action</a></th>
+    </tr>
+    <tr>
+      <td align="center" colspan="2"><img src="./claude-academy-badge-claude-code-in-action.png" alt="Claude Academy Badge - Claude Code in Action" title="Claude Academy Badge - Claude Code in Action" width="500" height="500"/></td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 <h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">📫 Kontakt</h2>
