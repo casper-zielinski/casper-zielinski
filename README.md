@@ -87,9 +87,9 @@
 
 <h3>Backend</h3>
 
-| Java | Spring Boot | Node.js | Express.js | JWT |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" title="Express.js" width="60" height="60"/> | <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" title="JWT" width="60" height="60"/> |
+| Java | Spring Boot | Hibernate | Node.js | Express.js | JWT |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate" title="Hibernate" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" title="Express.js" width="60" height="60"/> | <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" title="JWT" width="60" height="60"/> |
 
 <h3>Database & BaaS</h3>
 
@@ -97,11 +97,17 @@
 | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width="60" height="60"/> |
 
-<h3>DevOps & Tools</h3>
+<h3>DevOps & Deployment</h3>
 
-| Git | GitHub | Vercel | Railway | Postman | Claude Code |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" title="Vercel" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" alt="Railway" title="Railway" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="60" height="60"/> | <img src="./claude-code.svg" alt="Claude Code" title="Claude Code" width="60" height="60"/>
+| Git | GitHub | GitHub Actions | Vercel | Railway |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" title="Vercel" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" alt="Railway" title="Railway" width="60" height="60"/> |
+
+<h3>Tools & AI</h3>
+
+| Postman | OpenAPI | Claude Code | Claude |
+| :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="60" height="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" alt="OpenAPI" title="OpenAPI" width="60" height="60"/> | <img src="./claude-code.svg" alt="Claude Code" title="Claude Code" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" alt="Claude" title="Claude" width="60" height="60"/> |
 
 <br/>
 <h2 style="border-bottom: none; margin-bottom: 0; padding: 0;">🌱 Was ich gerade lerne</h2>
